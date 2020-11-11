@@ -1,0 +1,13 @@
+# general excludes
+*.bak
+*.swp
+~*
+*.log
+
+# kick the projet files
+*.xml
+*.iml
+/dictionaries
+/.idea/*
+/.idea/.*
+
