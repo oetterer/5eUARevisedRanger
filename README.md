@@ -7,7 +7,7 @@
 
 ### Link(s) to Module
 * https://foundryvtt.com/packages/
-* https://github.com/oetterer/5eUARevisedRanger/tree/master/5eUARevisedRanger
+* https://github.com/oetterer/5eUARevisedRanger/tree/master
 
 ### Description
 This module introduces the Unearthed Arcana's Revised Ranger and its
@@ -22,7 +22,7 @@ Feats and Subclasses. Included Subclasses (Conclaves) are
 * Open the Foundry application
 * Go to "Add-On Modules" tab
 * Click "Install Module" button at the bottom.
-* Paste the following link: https://raw.githubusercontent.com/oetterer/5eUARevisedRanger/master/5eUARevisedRanger/module.json
+* Paste the following link: https://raw.githubusercontent.com/oetterer/5eUARevisedRanger/master/module.json
 * Click "Install"
 * Activate the module in your World using Manage Modules under the Game Settings tab.
 
