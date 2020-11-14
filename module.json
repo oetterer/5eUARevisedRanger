@@ -1,9 +1,9 @@
 {
 	"name": "5eUARevisedRanger",
-	"title": "This module introduces the Unearthed Arcana's Revised Ranger and its Feats and Subclasses.",
-	"description": ".",
+	"title": "Unearthed Arcana - Revised Ranger",
+	"description": "This module introduces the Unearthed Arcana's Revised Ranger and its Feats and Subclasses.",
 	"author": "Arannis",
-	"version": "0.5.1",
+	"version": "0.5.2",
 	"minimumCoreVersion": "0.6.2",
 	"compatibleCoreVersion": "0.7.5",
 	"url": "https://github.com/oetterer/5eUARevisedRanger/tree/master",
@@ -24,7 +24,7 @@
 			"name": "classfeatures",
 			"label": "Class Features",
 			"system": "dnd5e",
-			"path": "packs/class-features.db",
+			"path": "packs/classfeatures.db",
 			"entity": "Item"
 		}
 	]
