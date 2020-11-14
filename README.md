@@ -1,7 +1,7 @@
 # 5e Unearthed Arcana: Revised Ranger
 
 * Author: Oetterer
-* Version: 0.7.1
+* Version: 0.7.2
 * Foundry VTT Compatibility: 0.7.5
 * System Compatibility: D&D 5th Edition 0.9.8
 
@@ -16,6 +16,7 @@ Feats and Subclasses. Included Subclasses (Conclaves) are
 * Beast Conclave
 * Hunter Conclave
 * Gloom Stalker (XGtE)
+* Horizon Walker (XGtE)
 * Monster Slayer (XGtE)
 
 ### Installation Guide
