@@ -1,7 +1,7 @@
 # 5e Unearthed Arcana: Revised Ranger
 
 * Author: Oetterer
-* Version: 0.7.2
+* Version: 0.9.0
 * Foundry VTT Compatibility: 0.7.5
 * System Compatibility: D&D 5th Edition 0.9.8
 
