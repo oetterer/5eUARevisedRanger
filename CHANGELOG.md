@@ -5,7 +5,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## upcoming
-- Elven subraces
+- Elven subraces: Wood Elves, Dark Elves
+- Racial feat Drow Magic
 
 
 ## [1.0.0] - 2020-11-18
